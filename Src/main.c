@@ -54,7 +54,7 @@ uint8_t velocidade = 0;
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
-
+uint16_t leitura_adc(void);
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
