@@ -47,6 +47,8 @@
 /* USER CODE BEGIN PV */
 uint32_t global1=0;
 uint8_t global2=0;
+uint8_t temperatura = 0;
+uint8_t velocidade = 0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
